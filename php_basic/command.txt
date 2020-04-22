@@ -1,0 +1,2 @@
+php file_name.php
+firefox file_name.html
